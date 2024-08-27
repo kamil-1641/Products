@@ -1,3 +1,3 @@
-Lorem ipsum odor amet, consectetuer adipiscing elit. Litora placerat in facilisi gravida efficitur nunc quis. Quis convallis nunc senectus porta lacus, cubilia suspendisse. Ligula tempus ligula in risus conubia efficitur commodo. Semper fames taciti fusce aenean sociosqu. Pharetra donec metus odio fusce; semper himenaeos adipiscing. Inceptos montes diam commodo etiam scelerisque malesuada est dis. Dolor malesuada mus blandit quisque habitasse facilisi mi nisl.
+Boilerplate
 
-Ipsum ipsum elementum fusce vestibulum eros nisl, mattis vitae elit. Placerat in felis facilisi hendrerit ex orci praesent elementum. Varius velit eu dolor euismod purus laoreet est. Himenaeos maximus himenaeos pulvinar feugiat gravida, eros porta faucibus. Orci in in euismod parturient lectus eros venenatis nec. Gravida aptent vehicula ullamcorper cursus ut cras ex imperdiet massa. Magna porta natoque taciti sem id primis.
+Boilerplate
